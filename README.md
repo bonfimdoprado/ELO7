@@ -52,3 +52,8 @@ Os softwares utilizados neste projeto foram:
   Foram implementados diversos filtros no dashboard, proporcionando uma análise personalizada e detalhada. Por exemplo, o filtro por cliente possibilita a avaliação das vendas de cada cliente, permitindo a identificação de clientes recorrentes e a personalização das estratégias de engajamento. O filtro por pedido possibilita a análise do valor líquido de cada pedido, enquanto o filtro por produto e pedido permite a avaliação das taxas aplicadas, ajudando a garantir que os valores de venda estejam alinhados com as metas estabelecidas.
   Dada a complexidade das taxas presentes neste marketplace, é fundamental manter um controle rigoroso para evitar prejuízos. A análise detalhada das taxas pode revelar oportunidades para ajustes de preço. Estes são apenas alguns dos insights que podem ser obtidos por meio deste dashboard, que oferece a possibilidade de análise de uma ampla gama de métricas e variáveis relacionadas às vendas nos marketplaces.
 
+![Screenshot_6](https://github.com/bonfimdoprado/ELO7/assets/119675645/36827bf2-bdf7-4f03-8d4d-375e937d6d02)
+
+## Autor
+
+* **Matheus Bonfim do Prado**: @bonfimdoprado (https://github.com/bonfimdoprado)
